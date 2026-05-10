@@ -1,0 +1,17 @@
+{
+  "appId": "com.micronisa.app",
+  "appName": "Micro Nisa",
+  "webDir": "../frontend/dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#9b2c2c",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}
