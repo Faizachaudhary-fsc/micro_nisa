@@ -1,0 +1,7 @@
+Micro-Nisa 
+
+Micro-Nisa app helps Pakistani women struggling to save money because of dependence on male family members for financial transactions and low literacy. 
+This app helps women likes Yasmeen. Yasmeen is a 36 years old home-based tailor who lives in a small town near Gujranwala. She wants to save money using traditional committee system but she has to ask her husband to deliver monthly payments on time. Furthermore, it is hard to find trusted committee groups. And, she faces difficulty in using mobile apps because of English language, difficult to understand complex interfaces and slow internet.
+Micro-Nisa transforms her reality.
+Micro-Nisa app solves her problem by giving her an Urdu-driven, easy to use and light-weight app that works on low bandwidth too. She opens the app and sees an easy Urdu interface. She logs in using phone number and OTP. Then, she creates a committee 'Stitching sisters' with 10 members. She sends them an invite link through SMS to join. The app tracks monthly payments and also gives voice reminders to pay on time. She also gets SMS notifications. Based on her timely payments she gets a trust score which helps her join further committees..
+Micro Nisa helps women who have been invisible to Pakistan's banking system - home-based workers, illiterate women, and those without male intermediatries. It turns traditional savings into digital empowerment.
